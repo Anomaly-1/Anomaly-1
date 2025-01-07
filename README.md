@@ -100,8 +100,4 @@
 
 ![snake gif](https://github.com/Anomaly-1/Anomaly-1/blob/output/github-snake-dark.svg)
 
-<div align="center">
-    <img src="https://visitcount.itsvg.in/api?id=Anomaly-1&icon=0&color=0" alt="Profile Views"/>
-</div>
-
 
